@@ -36,7 +36,7 @@
     "q": "^1.0.1",
     "runas": "^2.0.0",
     "season": "^1.0.2",
-    "semver": "2.2.1",
+    "semver": "7.3.2",
     "serializable": "^1",
     "temp": "0.7.0",
     "underscore-plus": "^1.6.1",
